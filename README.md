@@ -76,8 +76,3 @@ poder rodar os dois protótipos ao mesmo tempo, se quiser comparar).
 | Aluno 1    | carlos@aluno.com      |
 | Aluno 2    | juliana@aluno.com     |
 
-## Próximo passo natural
-
-Quando quiser evoluir este protótipo para a versão com persistência real,
-use o outro projeto entregue (pasta `elix/`), que já implementa exatamente
-as mesmas telas, mas salvando tudo em SQLite.
